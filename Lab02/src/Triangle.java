@@ -1,5 +1,6 @@
 /** 
-  Determines if three doubles can be sides of triangle. 
+ * CMSC 256 Lab 02
+ * Determines if three doubles can be sides of triangle. 
 */
 public class Triangle  {
 
