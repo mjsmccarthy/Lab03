@@ -6,6 +6,12 @@ import java.util.Calendar;
  * @author Matthew McCarthy
  *
  */
+
+/**
+ * Adding more comments.
+ * @author Matthew McCarthy
+ *
+ */
 public class AlgorithmAnalysis{
 
   public static void main(String[] args){
