@@ -1,5 +1,11 @@
 import java.util.Calendar;
 
+/**
+ * Algorithm Analysis Class:
+ * Tests various algorithm run times using a command line prompt.
+ * @author Matthew McCarthy
+ *
+ */
 public class AlgorithmAnalysis{
 
   public static void main(String[] args){
